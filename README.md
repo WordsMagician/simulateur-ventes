@@ -26,10 +26,12 @@ Cet outil aide à répondre à une question clé :
 - 🎯 Calcul du volume de ventes nécessaire pour compenser
 - 🧠 Conclusion orientée décision (effort commercial requis)
 - 📁 Export des résultats :
-  - Rapport texte (.txt)
-  - Données enrichies (.csv)
+- Rapport texte (.txt)
+- Données enrichies (.csv)
 - 📊 Visualisation :
-  - Graphique comparatif CA actuel vs simulé
+- Graphique comparatif CA actuel vs simulé
+
+![Comparatif](output/comparaison_ca.png)
 
 ---
 
