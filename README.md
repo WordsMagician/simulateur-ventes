@@ -14,6 +14,8 @@ Cet outil aide à répondre à une question clé :
 
 > Si je modifie mon prix, combien dois-je vendre pour conserver le même chiffre d’affaires ?
 
+![Rapport](output/Rapport_simulation.png)
+
 ---
 
 ## ⚙️ Fonctionnalités
